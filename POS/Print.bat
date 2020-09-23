@@ -1,0 +1,1 @@
+Type temp.txt >prn
